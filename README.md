@@ -5,5 +5,5 @@
 </div>
 
 - Estrutuda do Repositório :  
-  /academico → projetos relacionados à faculdade  
+  /académico → projetos relacionados à faculdade  
   /pessoal → projetos pessoais
