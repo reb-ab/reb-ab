@@ -4,6 +4,6 @@
   </a>
 </div>
 
-- Estrutuda do Repositório :
+- Estrutuda do Repositório :  
   /academico → projetos relacionados à faculdade  
   /pessoal → projetos pessoais
